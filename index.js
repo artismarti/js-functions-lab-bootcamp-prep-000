@@ -5,6 +5,9 @@ function happyHolidays() {
 function happyHolidaysTo(name) {
   return `Happy holidays, ${name}!`
 }
+function happyHolidayTo(name) {
+  return `Happy holidays, ${name}!`
+}
 
 
 /*
